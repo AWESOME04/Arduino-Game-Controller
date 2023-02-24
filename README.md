@@ -10,8 +10,11 @@ This Project has no circuit diagram because I used an onboard Gesture sensor.
 Goals and objectives
 
 •	Get acquainted with the onboard sensors on Arduino Nano BLE 33 Sense
+
 •	Explore the Arduino_ APDS9960 library which includes the Gesture Sensor feature.
+
 •	Exploring how python can be used alongside Arduino
+
 •	Exploring the use if Arduino Nano BLE 33 Sense as a keyboard on its own. 
 
 
@@ -19,10 +22,15 @@ Goals and objectives
 Hardware and Software Required
 
 •	An Arduino Nano 33 BLE Sense board
+
 •	A Micro USB cable to connect the Arduino board to your desktop machine.
+
 •	To program the board, I used the  Arduino IDE. 
+
 •	Any compatible IDE such as Microsoft Visual Studio Code
+
 •	BlueStacks (Optional)
+
 •	Game preferably games like subway surfers.
 
 
