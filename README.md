@@ -63,10 +63,12 @@ Gesture Sensor.
 Results
 
 
+
 ![image](https://user-images.githubusercontent.com/102630199/219422937-d99794fb-efb9-432c-b523-b6b503f91d46.png)
 
 
 REFERENCES
+
 [1] https://www.hackster.io/prabeenraj01/arduino-nano-ble-33-sense-game-controller-8a9927
 
 [2] https://create.arduino.cc/projecthub/prabeenr2/play-subway-surfers-using-gesture-sensor-9c6f1e?ref=part&ref_id=108462&offset=62
