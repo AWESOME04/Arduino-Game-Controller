@@ -1,4 +1,5 @@
 # Arduino-Game-Controller
+
 In this project, I made a game controller by using Arduino Nano BLE 33 Sense which has onboard proximity sensor. I played video games by using the Gesture Sensor (APDS9960)
 
 Arduino Nano 33 BLE sense Board has 8 onboard sensor including Gesture Sensor
@@ -7,6 +8,7 @@ This Project has no circuit diagram because I used an onboard Gesture sensor.
 ![image](https://user-images.githubusercontent.com/102630199/219422773-7c8a8c81-6867-4437-b108-c721e9338360.png)
 
 Goals and objectives
+
 •	Get acquainted with the onboard sensors on Arduino Nano BLE 33 Sense
 •	Explore the Arduino_ APDS9960 library which includes the Gesture Sensor feature.
 •	Exploring how python can be used alongside Arduino
@@ -15,6 +17,7 @@ Goals and objectives
 
 
 Hardware and Software Required
+
 •	An Arduino Nano 33 BLE Sense board
 •	A Micro USB cable to connect the Arduino board to your desktop machine.
 •	To program the board, I used the  Arduino IDE. 
@@ -25,9 +28,8 @@ Hardware and Software Required
 
 
 
-
-
 Procedure
+
 1) First Connect Arduino BLE Sense Board to Your PC or Laptop By using Type B 
 Charging Cable.
 
