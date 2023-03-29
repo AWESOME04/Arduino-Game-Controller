@@ -1,5 +1,7 @@
 # Arduino-Game-Controller
 
+![itled](https://user-images.githubusercontent.com/102630199/228612945-f600dcaa-ac97-4563-ace4-7aa7ebe9f9ba.jpg)
+
 In this project, I made a game controller by using Arduino Nano BLE 33 Sense which has onboard proximity sensor. I played video games by using the Gesture Sensor (APDS9960)
 
 Arduino Nano 33 BLE sense Board has 8 onboard sensor including Gesture Sensor
